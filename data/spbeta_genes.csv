@@ -1,0 +1,237 @@
+﻿prefiix,Name,Func,gene_id,spbeta_score,pbsx_score,spbeta_stage,pbs_stage
+BS_,aimP,control of phage SP beta lysogeny,BS_aimP,1,0,2,0
+BS_,aimR,control of phage SP beta lysogeny,BS_aimR,1,0,2,0
+BS_,bdbA,oxidative folding of proteins,BS_bdbA,1,0,1,0
+BS_,bdbB,oxidative folding of proteins,BS_bdbB,1,0,1,0
+BS_,bhlA,unknown,BS_bhlA,1,0,3,0
+BS_,bhlB,unknown,BS_bhlB,1,0,3,0
+BS_,blyA,SPß-mediated lysis,BS_blyA,1,0,3,0
+BS_,cwlP,cell wall turnover,BS_cwlP,1,0,3,0
+BS_,ligB,phage SP-beta replication,BS_ligB,1,0,2,0
+BS_,mtbP,DNA modification,BS_mtbP,1,0,2,0
+BS_,nonA,confers resistance to infection with phage SP10,BS_nonA,1,0,2,0
+BS_,nrdEB,unknown,BS_nrdEB,1,0,2,0
+BS_,pghZ,polyglutamic acid degradation,BS_pghZ,1,0,2,0
+BS_,sprA,excision of the SP-beta prophage,BS_sprA,1,0,2,0
+BS_,sprB,excision of SP-beta prophage,BS_sprB,1,0,2,0
+BS_,sspC,protection of spore DNA,BS_sspC,1,0,2,0
+BS_,sunA,exported antimicrobial peptide,BS_sunA,1,0,1,0
+BS_,sunI,immunity to sublancin,BS_sunI,1,0,1,0
+BS_,sunT,Sublancin export and processing,BS_sunT,1,0,1,0
+BS_,uvrX,DNA repair after UV damage,BS_uvrX,1,0,1,0
+BS_,yojW,unknown,BS_yojW,1,0,2,0
+BS_,yokB,unknown,BS_yokB,1,0,1,0
+BS_,yokC,unknown,BS_yokC,1,0,1,0
+BS_,yokD,unknown,BS_yokD,1,0,1,0
+BS_,yokE,unknown,BS_yokE,1,0,1,0
+BS_,yokF,unknown,BS_yokF,1,0,1,0
+BS_,yokG,unknown,BS_yokG,1,0,1,0
+BS_,yokH,unknown,BS_yokH,1,0,1,0
+BS_,yokI,competetion with other bacteria in biofilms,BS_yokI,1,0,1,0
+BS_,yokJ,inhibition of the cytotoxic activity of YokI,BS_yokJ,1,0,1,0
+BS_,yokK,unknown,BS_yokK,1,0,1,0
+BS_,yokL,unknown,BS_yokL,1,0,1,0
+BS_,yolA,unknown,BS_yolA,1,0,1,0
+BS_,yolB,unknown,BS_yolB,1,0,1,0
+BS_,yolC,unknown,BS_yolC,1,0,1,0
+BS_,yolD,unknown,BS_yolD,1,0,1,0
+BS_,yolJ,biosynthesis of the antimicrobial peptide sublancin,BS_yolJ,1,0,1,0
+BS_,yomD,unknown,BS_yomD,1,0,3,0
+BS_,yomE,unknown,BS_yomE,1,0,3,0
+BS_,yomF,unknown,BS_yomF,1,0,3,0
+BS_,yomG,unknown,BS_yomG,1,0,3,0
+BS_,yomH,unknown,BS_yomH,1,0,3,0
+BS_,yomJ,unknown,BS_yomJ,1,0,3,0
+BS_,yomK,unknown,BS_yomK,1,0,3,0
+BS_,yomL,unknown,BS_yomL,1,0,3,0
+BS_,yomM,recombinase like pprotein,BS_yomM,1,0,3,0
+BS_,yomN,unknown,BS_yomN,1,0,3,0
+BS_,yomO,unknown,BS_yomO,1,0,3,0
+BS_,yomP,unknown,BS_yomP,1,0,3,0
+BS_,yomQ,unknown,BS_yomQ,1,0,3,0
+BS_,yomR,unknown,BS_yomR,1,0,3,0
+BS_,yomS,unknown,BS_yomS,1,0,3,0
+BS_,yomT,unknown,BS_yomT,1,0,3,0
+BS_,yomU,unknown,BS_yomU,1,0,3,0
+BS_,yomV,na,BS_yomV,1,0,3,0
+BS_,yomW,unknown,BS_yomW,1,0,3,0
+BS_,yomX,unknown,BS_yomX,1,0,3,0
+BS_,yomY,unknown,BS_yomY,1,0,3,0
+BS_,yomZ,unknown,BS_yomZ,1,0,3,0
+BS_,yonA,unknown,BS_yonA,1,0,3,0
+BS_,yonB,unknown,BS_yonB,1,0,3,0
+BS_,yonC,unknown,BS_yonC,1,0,3,0
+BS_,yonD,unknown,BS_yonD,1,0,3,0
+BS_,yonE,unknown,BS_yonE,1,0,3,0
+BS_,yonF,terminase,BS_yonF,1,0,3,0
+BS_,yonG,unknown,BS_yonG,1,0,3,0
+BS_,yonH,unknown,BS_yonH,1,0,3,0
+BS_,yonI,unknown,BS_yonI,1,0,3,0
+BS_,yonJ,coiiled coil,BS_yonJ,1,0,3,0
+BS_,yonK,unknown,BS_yonK,1,0,3,0
+BS_,yonN,untwisting of the DNA double helix,BS_yonN,1,0,3,0
+BS_,yonO,transcription of late SP beta genes,BS_yonO,1,0,3,0
+BS_,yonP,ParB_N_Srx domain,BS_yonP,1,0,3,0
+BS_,yonR,repression of SP-beta prophage genes during lysogenic growth,BS_yonR,1,0,2,0
+BS_,yonS,unknown,BS_yonS,1,0,2,0
+BS_,yonT,unknown,BS_yonT,1,0,2,0
+BS_,yonU,unknown,BS_yonU,1,0,2,0
+BS_,yonV,unknown,BS_yonV,1,0,2,0
+BS_,yonX,unknown,BS_yonX,1,0,2,0
+BS_,yopA,unknown,BS_yopA,1,0,2,0
+BS_,yopB,unknown,BS_yopB,1,0,2,0
+BS_,yopC,unknown,BS_yopC,1,0,2,0
+BS_,yopD,unknown,BS_yopD,1,0,2,0
+BS_,yopE,unknown,BS_yopE,1,0,2,0
+BS_,yopF,unknown,BS_yopF,1,0,2,0
+BS_,yopG,unknown,BS_yopG,1,0,2,0
+BS_,yopH,unknown,BS_yopH,1,0,2,0
+BS_,yopI,unknown,BS_yopI,1,0,2,0
+BS_,yopJ,unknown,BS_yopJ,1,0,2,0
+BS_,yopM,unknown,BS_yopM,1,0,2,0
+BS_,yopN,control of lysis/lysogeny in the SP beta phage,BS_yopN,1,0,2,0
+BS_,yopO,integrase,BS_yopO,1,0,2,0
+BS_,yopP,probable integrase/recombinase ,BS_yopP,1,0,2,0
+BS_,yopQ,unknown,BS_yopQ,1,0,2,0
+BS_,yopR,control of lysis/ lysogeny of the SP beta prophage,BS_yopR,1,0,2,0
+BS_,yopS,unknown,BS_yopS,1,0,2,0
+BS_,yopT,unknown,BS_yopT,1,0,2,0
+BS_,yopU,unknown,BS_yopU,1,0,2,0
+BS_,yopV,unknown,BS_yopV,1,0,2,0
+BS_,yopW,unknown,BS_yopW,1,0,2,0
+BS_,yopX,unknown,BS_yopX,1,0,2,0
+BS_,yopY,unknown,BS_yopY,1,0,2,0
+BS_,yopZ,unknown,BS_yopZ,1,0,2,0
+BS_,yoqA,unknown,BS_yoqA,1,0,2,0
+BS_,yoqB,unknown,BS_yoqB,1,0,2,0
+BS_,yoqC,unknown,BS_yoqC,1,0,2,0
+BS_,yoqD,unknown,BS_yoqD,1,0,2,0
+BS_,yoqE,unknown,BS_yoqE,1,0,2,0
+BS_,yoqF,unknown,BS_yoqF,1,0,2,0
+BS_,yoqG,unknown,BS_yoqG,1,0,2,0
+BS_,yoqH,LysM domain-containing protein  -- hydrollase,BS_yoqH,1,0,2,0
+BS_,yoqI,unknown,BS_yoqI,1,0,2,0
+BS_,yoqJ,unknown,BS_yoqJ,1,0,2,0
+BS_,yoqK,unknown,BS_yoqK,1,0,2,0
+BS_,yoqL,homing nuclease/maybe defense reltaed?,BS_yoqL,1,0,2,0
+BS_,yoqM,antimiicrobial peptiide?,BS_yoqM,1,0,2,0
+BS_,yoqN,unknown,BS_yoqN,1,0,2,0
+BS_,yoqO,unknown,BS_yoqO,1,0,2,0
+BS_,yoqP,unknown,BS_yoqP,1,0,2,0
+BS_,yoqR,unknown,BS_yoqR,1,0,2,0
+BS_,yoqS,unknown,BS_yoqS,1,0,2,0
+BS_,yoqT,unknown,BS_yoqT,1,0,2,0
+BS_,yoqU,unknown,BS_yoqU,1,0,2,0
+BS_,yoqW,unknown,BS_yoqW,1,0,2,0
+BS_,yoqX,unknown,BS_yoqX,1,0,2,0
+BS_,yoqY,unknown,BS_yoqY,1,0,2,0
+BS_,yorA,unknown,BS_yorA,1,0,2,0
+BS_,yorB,unknown,BS_yorB,1,0,2,0
+BS_,yorC,unknown,BS_yorC,1,0,2,0
+BS_,yorD,unknown,BS_yorD,1,0,2,0
+BS_,yorE,unknown,BS_yorE,1,0,2,0
+BS_,yorF,unknown,BS_yorF,1,0,2,0
+BS_,yorG,unknown,BS_yorG,1,0,2,0
+BS_,yorH,unknown,BS_yorH,1,0,2,0
+BS_,yorI,unknown,BS_yorI,1,0,2,0
+BS_,yorJ,unknown,BS_yorJ,1,0,2,0
+BS_,yorK,unknown,BS_yorK,1,0,2,0
+BS_,yorL,unknown,BS_yorL,1,0,2,0
+BS_,yorM,unknown,BS_yorM,1,0,2,0
+BS_,yorN,unknown,BS_yorN,1,0,2,0
+BS_,yorO,unknown,BS_yorO,1,0,2,0
+BS_,yorP,unknown,BS_yorP,1,0,2,0
+BS_,yorQ,unknown,BS_yorQ,1,0,2,0
+BS_,yorR,unknown,BS_yorR,1,0,2,0
+BS_,yorS,unknown,BS_yorS,1,0,2,0
+BS_,yorT,unknown,BS_yorT,1,0,2,0
+BS_,yorV,unknown,BS_yorV,1,0,2,0
+BS_,yorW,unknown,BS_yorW,1,0,2,0
+BS_,yorX,unknown,BS_yorX,1,0,2,0
+BS_,yorY,unknown,BS_yorY,1,0,2,0
+BS_,yorZ,unknown,BS_yorZ,1,0,2,0
+BS_,yosA,unknown,BS_yosA,1,0,2,0
+BS_,yosB,unknown,BS_yosB,1,0,2,0
+BS_,yosC,unknown,BS_yosC,1,0,2,0
+BS_,yosD,unknown,BS_yosD,1,0,2,0
+BS_,yosE,unknown,BS_yosE,1,0,2,0
+BS_,yosF,unknown,BS_yosF,1,0,2,0
+BS_,yosG,unknown,BS_yosG,1,0,2,0
+BS_,yosH,unknown,BS_yosH,1,0,2,0
+BS_,yosI,unknown,BS_yosI,1,0,2,0
+BS_,yosJ,unknown,BS_yosJ,1,0,2,0
+BS_,yosK,unknown,BS_yosK,1,0,2,0
+BS_,yosL,unknown,BS_yosL,1,0,2,0
+BS_,yosM,nucleoside diphosphate reductase,BS_yosM,1,0,2,0
+BS_,yosP,unknown,BS_yosP,1,0,2,0
+BS_,yosQ,maybe a freestanding nuclease,BS_yosQ,1,0,2,0
+BS_,yosR,unknown,BS_yosR,1,0,2,0
+BS_,yosS,nucleotide metabolism,BS_yosS,1,0,2,0
+BS_,yosT,unknown,BS_yosT,1,0,2,0
+BS_,yosU,unknown,BS_yosU,1,0,2,0
+BS_,yosV,unknown,BS_yosV,1,0,2,0
+BS_,yosW,unknown,BS_yosW,1,0,2,0
+BS_,yosX,unknown,BS_yosX,1,0,2,0
+BS_,yotB,unknown,BS_yotB,1,0,2,0
+BS_,yotC,unknown,BS_yotC,1,0,2,0
+BS_,yotD,unknown,BS_yotD,1,0,2,0
+BS_,yotE,unknown,BS_yotE,1,0,2,0
+BS_,yotF,unknown,BS_yotF,1,0,2,0
+BS_,yotG,unknown,BS_yotG,1,0,2,0
+BS_,yotH,unknown,BS_yotH,1,0,2,0
+BS_,yotI,unknown,BS_yotI,1,0,2,0
+BS_,yotJ,unknown,BS_yotJ,1,0,2,0
+BS_,yotK,unknown,BS_yotK,1,0,2,0
+BS_,yotL,unknown,BS_yotL,1,0,2,0
+BS_,yotM,unknown,BS_yotM,1,0,2,0
+BS_,youA,unknown,BS_youA,1,0,2,0
+BS_,youB,unknown,BS_youB,1,0,2,0
+BS_,yoyH,unknown,BS_yoyH,1,0,2,0
+BS_,yoyI,unknown,BS_yoyI,1,0,2,0
+BS_,yoyJ,unknown,BS_yoyJ,1,0,2,0
+BS_,yoyK/1,unknown,BS_yoyK/1,1,0,2,0
+BS_,yoyK/2,unknown,BS_yoyK/2,1,0,2,0
+BS_,yozP,unknown,BS_yozP,1,0,2,0
+BS_,pghB,polyglutamate degradation,BS_pghB,0,1,0,3
+BS_,xepA,phage release,BS_xepA,0,1,0,3
+BS_,xhlA,host cell lysis,BS_xhlA,0,1,0,3
+BS_,xhlB,host cell lysis,BS_xhlB,0,1,0,3
+BS_,xkdA,endopeptidase,BS_xkdA,0,1,0,1
+BS_,xkdB,"hth dooman, dna binding/Phage portal protein	",BS_xkdB,0,1,0,2
+BS_,xkdC,ATPP biiniding protein,BS_xkdC,0,1,0,2
+BS_,xkdD,phage portal protein,BS_xkdD,0,1,0,3
+BS_,xkdE,unknown,BS_xkdE,0,1,0,3
+BS_,xkdF,unknown,BS_xkdF,0,1,0,3
+BS_,xkdG,unknown,BS_xkdG,0,1,0,3
+BS_,xkdH,unknown,BS_xkdH,0,1,0,3
+BS_,xkdI,unknown,BS_xkdI,0,1,0,3
+BS_,xkdJ,unknown,BS_xkdJ,0,1,0,3
+BS_,xkdK,unknown,BS_xkdK,0,1,0,3
+BS_,xkdM,unknown,BS_xkdM,0,1,0,3
+BS_,xkdN,unknown,BS_xkdN,0,1,0,3
+BS_,xkdO,unknown,BS_xkdO,0,1,0,3
+BS_,xkdP,unknown,BS_xkdP,0,1,0,3
+BS_,xkdQ,unknown,BS_xkdQ,0,1,0,3
+BS_,xkdR,unknown,BS_xkdR,0,1,0,3
+BS_,xkdS,unknown,BS_xkdS,0,1,0,3
+BS_,xkdT,unknown,BS_xkdT,0,1,0,3
+BS_,xkdU,unknown,BS_xkdU,0,1,0,3
+BS_,xkdV,unknown,BS_xkdV,0,1,0,3
+BS_,xkdW,unknown,BS_xkdW,0,1,0,3
+BS_,xkdX,unknown,BS_xkdX,0,1,0,3
+BS_,xkzA,unknown,BS_xkzA,0,1,0,3
+BS_,xkzB,unknown,BS_xkzB,0,1,0,3
+BS_,xlyA,PBSX prophage-mediated lysis,BS_xlyA,0,1,0,3
+BS_,xlyB,PBSX prophage-mediated lysis,BS_xlyB,0,1,0,3
+BS_,xpf,transcription of PBSX prophage genes,BS_xpf,0,1,0,2
+BS_,xre,regulation of PBSX prophage gene expression,BS_xre,0,1,0,1
+BS_,xtmA,phage DNA replication -- terminaase,BS_xtmA,0,1,0,3
+BS_,xtmB,phage DNA replication,BS_xtmB,0,1,0,3
+BS_,xtrA,unknown,BS_xtrA,0,1,0,2
+BS_,yjqA,unknown,BS_yjqA,0,1,0,3
+BS_,yjqC,protection of the spore,BS_yjqC,0,1,0,0
+BS_,yjzJ,unknown,BS_yjzJ,0,1,0,2
+BS_,ykzK,unknown,BS_ykzK,0,1,0,2
+BS_,ykzL,unknown,BS_ykzL,0,1,0,3
+BS_,ykzM,unknown,BS_ykzM,0,1,0,3
+BS_,nrdFB,unknown,BS_nrdFB,1,0,2,0

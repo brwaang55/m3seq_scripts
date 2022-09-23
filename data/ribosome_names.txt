@@ -1,0 +1,37 @@
+rrlA
+rrlB
+rrlC
+rrlD
+rrlE
+rrlG
+rrlH
+rrnA-16S
+rrnA-23S
+rrnB-16S
+rrnB-23S
+rrnD-16S
+rrnD-23S
+rrnE-16S
+rrnE-23S
+rrnG-16S
+rrnG-23S
+rrnH-16S
+rrnH-23S
+rrnI-16S
+rrnI-23S
+rrnJ-16S
+rrnJ-23S
+rrnO-16S
+rrnO-23S
+rrnW-16S
+rrnW-23S
+rrsA
+rrsB
+rrsC
+rrsD
+rrsE
+rrsG
+rrsH
+rrf
+16S rRNA
+23S rRNA

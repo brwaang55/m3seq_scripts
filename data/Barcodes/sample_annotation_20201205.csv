@@ -1,0 +1,3 @@
+﻿sample_name,toggle,protocol,batch,cell_line,expected_cell_number,material,organism,species_mixing,flowcell,variables,annotation
+bw_scifi1,0,scifi1,scifi1,bacteria,100000,cells,bacteria,1,10x,"plate_well,treatment",/Genomics/grid/users/bw21/gitrepos/scBactoSeq/data/Barcodes/bw_scifi_plate_anno.csv
+bw_scifi2,1,scifi1,scifi1,bacteria,600000,cells,bacteria,1,10x,"plate_well,treatment",/Genomics/grid/users/bw21/gitrepos/scBactoSeq/data/Barcodes/bw_scifi2_plate_anno.csv
