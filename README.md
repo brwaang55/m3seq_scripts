@@ -1,1 +1,1 @@
-# m3seq_scripts
+# M3-Seq scripts
