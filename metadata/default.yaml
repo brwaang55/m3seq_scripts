@@ -1,0 +1,60 @@
+
+star_exe:  # STAR aligner runnable
+  "~/miniconda3/envs/cutadaptenv/bin/STAR"
+star_genome_dir:  # directory with STAR aligner indexes
+  "/Genomics/grid/users/bw21/Data/genomes/MG1655_BS168"
+#  "/Genomics/grid/users/bw21/Data/genomes/MG1655"
+gtf_file:  # Transcriptomg GTF file
+  "/Genomics/grid/users/bw21/Data/genomes/MG1655_BS168/MG1655_BS1682.gff"
+#  "/Genomics/grid/users/bw21/Data/genomes/MG1655_BS168/MG1655_BS168_test.gff"
+#  "/Genomics/grid/users/bw21/Data/genomes/MG1655/MG1655_v2.gff3"
+featurecounts_exe:
+  "~/miniconda3/envs/cutadaptenv/bin/featureCounts"
+# star_genome_dir:
+#   "/home/arendeiro/resources/genomes/hg38_mm10_transgenes_Tcrlibrary/indexed_STAR_2.7.0e/"
+# gtf_file:
+#   "/home/arendeiro/resources/genomes/hg38_mm10_transgenes_Tcrlibrary/Homo_sapiens-Mus_musculus.Ensembl92.dna.primary_assembly.Tcr_lambda_spiked.gtf"
+root_output_dir:  # default directory for outputs
+  "~/Data"
+expected_cell_number:  # default expected number of cells
+  100000
+min_umi_output:  # minimum number of UMIs a barcode must have to be reported
+  5
+annotation:  # round2 CSV annotation. Superceeded by values in sample CSV annotation.
+  "/Genomics/grid/users/bw21/gitrepos/scBactoSeq/data/Barcodes/sample_annotation.csv"
+variables:  # variables in round1 CSV annotation to bring along, Superceeded by values in sample CSV annotation
+  - "plate_well"
+species_mixing:  # whether experiment contains more than one species. Superceeded by value in sample CSV annotatiton
+  2
+array_size:  # SLURM job array size
+  2
+chunks:
+  1
+chunk_batch_size:
+  1
+grna_pbs_sequence:
+  GTGGAAAGGACGAAACACCG
+submission_command:
+  "sbatch"
+
+resources:
+  map:
+    cpus: 4
+    mem: 60000
+    queue: "shortq"
+    time: "03:00:00"
+  filter:
+    cpus: 4
+    mem: 40000
+    queue: "shortq"
+    time: "03:00:00"
+  join:
+    cpus: 1
+    mem: 8000
+    queue: "shortq"
+    time: "00:30:00"
+  report:
+    cpus: 4
+    mem: 80000
+    queue: "longq"
+    time: "3-00:00:00"
